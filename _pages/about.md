@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Wei Li (李威), a Research-Fellow at the <strong><a href="https://www.uab.edu/cas/computerscience/">Department of Mechanical and Materials Engineering</a></strong>, <strong><a href="https://www.uab.edu/engineering/mme/">University of Alabama at Birmingham</a></strong>, supervised by <strong><a href="https://www.kathylugroup.com/kathy-lu.html">Prof. Kathy Lu</a></strong>, working with <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113600.en.jsp">Prof. Anke Weidenkaff</a></strong> from <strong> Technische Universität Darmstadt</strong>.
 
-Before that, I received my Ph.D degree in 2023 from <strong><a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</strong>, co-supervised by <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_157184.en.jsp">Prof. Zhaoju Yu</a></strong> . 
+Before that, I received my Ph.D degree in 2023 from <a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt, co-supervised by <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_157184.en.jsp">Prof. Zhaoju Yu</a></strong> . 
 
 Research Interest
 ======
