@@ -7,20 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wei Li (李威), a Research-Fellow at the <strong><a href="https://www.uab.edu/cas/computerscience/">Department of Mechanical and Materials Engineering</a></strong>, <strong><a href="https://www.uab.edu/engineering/mme/">University of Alabama at Birmingham</a></strong>, supervised by <strong><a href="https://www.kathylugroup.com/kathy-lu.html">Prof. Kathy Lu</a></strong>, working with <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113600.en.jsp">Prof. Anke Weidenkaff</a></strong> from <strong> Technische Universität Darmstadt</strong>.</p> Before that, I received my Ph.D degree in 2023 </strong> from <strong><a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</strong>, co-supervised by <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_157184.en.jsp">Prof. Zhaoju Yu</a></strong> . 
+Hi, I am Wei Li (李威), a Research-Fellow at the <strong><a href="https://www.uab.edu/cas/computerscience/">Department of Mechanical and Materials Engineering</a></strong>, <strong><a href="https://www.uab.edu/engineering/mme/">University of Alabama at Birmingham</a></strong>, supervised by <strong><a href="https://www.kathylugroup.com/kathy-lu.html">Prof. Kathy Lu</a></strong>, working with <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113600.en.jsp">Prof. Anke Weidenkaff</a></strong> from <strong> Technische Universität Darmstadt</strong>.
+
+Before that, I received my Ph.D degree in 2023 from <strong><a href="https://www.tu-darmstadt.de/index.en.jsp">Technische Universität Darmstadt</strong>, co-supervised by <strong><a href="https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp">Prof. Ralf Riedel</a></strong> and <strong><a href="https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_157184.en.jsp">Prof. Zhaoju Yu</a></strong> . 
 
 Research Interest
 ======
 •	Polymer-derived ceramics and ceramic nanocomposites
+
 •	The synthesis of MAX/MAB and MXenes/MBenes materials
+
 •	Electromagnetic wave absorption and shielding materials
+
 •	Upcycling of plastic wastes and biomass
+
 •	Thermoelectric materials
+
 •	Additive manufacturing
 
 ​Professional Affiliations
 ------
 Professional member of Minerals, Metals and Materials Society (TMS), USA
+
 Full Member of Sigma Xi, The Scientific Research Honor Society, USA
 
 Scientific Results
@@ -64,5 +72,6 @@ Scientific Results
 **Contributions to academic community**
 ------
 Regular reviewer for > 10 international journals, including prestigious ones such as Journal of Materials Chemistry A, Ceramics International and International Journal of Applied Ceramic Technology.
+
 Topic coordinator for Special Issue of Materials " Low-Dimensional High-Entropy Materials". https://www.frontiersin.org/research-topics/58747/low-dimensional-high-entropy-materials 
 
